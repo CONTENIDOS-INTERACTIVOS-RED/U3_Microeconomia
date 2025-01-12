@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="429" viewBox="0 0 860 429">
+  <g id="Grupo_1162130" data-name="Grupo 1162130" transform="translate(-370 -6303)">
+    <rect id="Imagen_14" data-name="Imagen 14" width="860" height="429" transform="translate(370 6303)" fill="#fff"/>
+    <path id="Trazado_994726" data-name="Trazado 994726" d="M4131.422,6322.642v249.129H4446.61" transform="translate(-3687.422 55.664)" fill="none" stroke="#6e7a97" stroke-width="1.5"/>
+    <path id="Trazado_994731" data-name="Trazado 994731" d="M4131.422,6322.642v249.129H4446.61" transform="translate(-3289.422 55.664)" fill="none" stroke="#6e7a97" stroke-width="1.5"/>
+    <text id="P" transform="translate(417 6394.831)" fill="#212429" font-size="16" font-family="Mulish-Bold, Mulish" font-weight="700" letter-spacing="0em"><tspan x="-5.328" y="0">P</tspan></text>
+    <text id="IMg" transform="translate(815 6394.831)" fill="#212429" font-size="16" font-family="Mulish-Bold, Mulish" font-weight="700" letter-spacing="0em"><tspan x="-14.21" y="0">IMg</tspan></text>
+    <text id="IMg-2" data-name="IMg" transform="translate(1152 6540.831)" fill="#212429" font-size="16" font-family="Mulish-Bold, Mulish" font-weight="700" letter-spacing="0em"><tspan x="-14.21" y="0">IMg</tspan></text>
+    <text id="p-2" data-name="p" transform="translate(417 6530.831)" fill="#212429" font-size="16" font-family="Mulish-Regular, Mulish" letter-spacing="0em"><tspan x="-4.8" y="0">p</tspan></text>
+    <text id="p_" data-name="p*" transform="translate(824 6533.5)" fill="#212429" font-size="16" font-family="Mulish-Regular, Mulish" letter-spacing="0em"><tspan x="-8.305" y="0">p*</tspan></text>
+    <text id="O" transform="translate(769 6394.831)" fill="#212429" font-size="16" font-family="Mulish-Bold, Mulish" font-weight="700" letter-spacing="0em"><tspan x="-6.296" y="0">O</tspan></text>
+    <text id="D" transform="translate(769 6554.5)" fill="#212429" font-size="16" font-family="Mulish-Bold, Mulish" font-weight="700" letter-spacing="0em"><tspan x="-6.096" y="0">D</tspan></text>
+    <text id="Q" transform="translate(763 6658.306)" fill="#212429" font-size="16" font-family="Mulish-Bold, Mulish" font-weight="700" letter-spacing="0em"><tspan x="-6.296" y="0">Q</tspan></text>
+    <text id="Q-2" data-name="Q" transform="translate(600 6658.306)" fill="#212429" font-size="16" font-family="Mulish-Regular, Mulish" letter-spacing="0em"><tspan x="-6.176" y="0">Q</tspan></text>
+    <path id="Polígono_40" data-name="Polígono 40" d="M8,0l8,10H0Z" transform="translate(436 6373.306)" fill="#0b0a0a"/>
+    <path id="Polígono_42" data-name="Polígono 42" d="M8,0l8,10H0Z" transform="translate(834 6373.306)" fill="#0b0a0a"/>
+    <path id="Polígono_41" data-name="Polígono 41" d="M8,0l8,10H0Z" transform="translate(768 6619.435) rotate(90)" fill="#0b0a0a"/>
+    <path id="Polígono_43" data-name="Polígono 43" d="M8,0l8,10H0Z" transform="translate(1166 6619.435) rotate(90)" fill="#0b0a0a"/>
+    <text id="Contenido" transform="translate(838 6660)" fill="#212429" font-size="16" font-family="Mulish-Regular, Mulish" letter-spacing="0em"><tspan x="0" y="16">En competencia perfecta, el precio de </tspan><tspan x="0" y="40">equilibrio p* = IMg</tspan></text>
+    <path id="Trazado_994727" data-name="Trazado 994727" d="M678,6508.831H996.681" transform="translate(-234 26)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5"/>
+    <path id="Trazado_994734" data-name="Trazado 994734" d="M678,6508.831H961" transform="translate(164 26)" fill="none" stroke="#6e7a97" stroke-width="1"/>
+    <path id="Trazado_994728" data-name="Trazado 994728" d="M724,6568.845s56.25-2.345,110-50.014,105-140.664,105-140.664" transform="translate(-234 16)" fill="none" stroke="#6e7a97" stroke-width="1"/>
+    <path id="Trazado_994729" data-name="Trazado 994729" d="M762,6372.831s21.769,95.9,72,146,128.922,54.391,128.922,54.391" transform="translate(-234 16)" fill="none" stroke="#6e7a97" stroke-width="1"/>
+    <path id="Trazado_994730" data-name="Trazado 994730" d="M834,6518.831v93.95" transform="translate(-234 16)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="5"/>
+    <circle id="Elipse_12013" data-name="Elipse 12013" cx="7" cy="7" r="7" transform="translate(593 6528)" fill="#0b0a0a"/>
+  </g>
+</svg>

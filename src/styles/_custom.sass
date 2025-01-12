@@ -17,13 +17,15 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #FBEADF
   &-2
-    background-color: #FFFBE8
+    background-color: #E8EDF7
   &-3
-    background-color: #F0E9F6
+    background-color: #E3FBF2
   &-4
-    background-color: #EAF8FD
+    background-color: #E4F2F4
+  &-5
+    background-color: #D4DDF0
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -52,10 +54,10 @@
 .bg-fondo
   &-1
     background-image: url("../assets/bg/bg1.png") !important
-    background-position: top
+    background-position-y: -120px
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
-    background-position: bottom
+    background-image: url("../assets/bg/bg2.png") !important
+    background-position-y: -120px
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
@@ -97,16 +99,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: #F5FDFA !important
 
 .acordion__header--active
-  background-color: $color-acento-contenido !important
+  background-color: #A4F1D6 !important
   h4, i
     color: #000 !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
-
+  background-color: #E3FBF2
 
 .anexo__texto
   p, strong
@@ -122,6 +123,8 @@ $custom-card-img-height: 322px
   i
     color: $color-primario !important
 
+  &.color-primario
+    background-color: #E8EDF7 !important
 
 .bg-ppal-claro
   background-color: #F7F4ED
@@ -167,7 +170,7 @@ $custom-card-img-height: 322px
   background-color: #F8BC17
 
 .img-infografica__card, .img-infografica-b__card
-  width: 350px !important
+  width: 550px !important
   
 .img-infografica__item__numero
   font-weight: 900
@@ -210,3 +213,54 @@ $custom-card-img-height: 322px
   a
     text-decoration: none
     color: $color-sistema-texto
+
+
+.bg-h85
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    bottom: 0%
+    left: 0
+    width: 100%
+    height: 94%
+    transform: translateY(-3%)
+    background-color: #D4DDF0
+    z-index: 0
+  .col-lg-11, .row
+    z-index: 1
+  .col-lg-12, .row
+    z-index: 1
+
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
+
+.bg-h85-2
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    bottom: 0%
+    left: 0
+    width: 100%
+    height: 87%
+    transform: translateY(0%)
+    background-color: #FBEADF
+    z-index: 0
+  .col-lg-11, .row
+    z-index: 1
+  .col-lg-12, .row
+    z-index: 1
+
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
+
+
+figcaption
+  background-color: #BFCDE9

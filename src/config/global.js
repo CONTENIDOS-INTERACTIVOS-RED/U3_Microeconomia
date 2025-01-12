@@ -1,7 +1,7 @@
 export default {
   global: {
     numeroUnidad: '3',
-    tituloUnidad: 'Bioética y sostenibilidad en el desarrollo económico global',
+    tituloUnidad: 'Mercados y competencia',
   },
   menuPrincipal: {
     menu: [
@@ -15,20 +15,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Tipos de mercado',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Competencia perfecta',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Monopolio',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Oligopolio',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Competencia monopolística',
+            hash: 't_1_4',
           },
         ],
       },
@@ -36,26 +48,20 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Formación de precios y equilibrio de mercado',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Formación de precios',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Equilibrio de mercado',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
           },
         ],
       },
@@ -63,19 +69,19 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Título tema',
+        titulo: 'Fallos del mercado',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Externalidades',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Subtítulo tema',
+            titulo: 'Bienes públicos',
             hash: 't_3_2',
           },
         ],
@@ -118,14 +124,35 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Antelo-Suárez, M. (2015). Microeconomía intermedia en casos. Delta Publicaciones.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/170085',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Salas Velasco, M. (2018). Microeconomía: conceptos teóricos y aplicaciones. Difusora Larousse - Ediciones Pirámide.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/105577',
+    },
+    {
+      referencia:
+        'Rodríguez Galván, J. Y. (2022). Microeconomía: teoría y ejercicios. Grupo Editorial Éxodo.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/224089',
+    },
+    {
+      referencia:
+        'Vial Lira, B. (2012). Microeconomía. Editorial ebooks Patagonia - Ediciones Universidad Católica de Chile.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67738',
+    },
+    {
+      referencia:
+        'Núñez Sánchez, R. (s.f.). Tema 4. Externalidades y bienes públicos Microeconomía III.',
+      link:
+        'https://ocw.unican.es/pluginfile.php/1653/course/section/1144/tema_04.pdf',
+    },
+    {
+      referencia:
+        'González Tapia, E. (2015). LAS EXTERNALIDADES Y EL TEOREMA DE COASE.',
+      link:
+        'https://trilogia.utem.cl/wp-content/uploads/sites/9/2019/10/trilogia-utem-facultad-administracion-economia-vol28-n39-2015-nota-tecnica-1-Gonzalez.pdf',
     },
   ],
   glosario: [
