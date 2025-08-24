@@ -513,7 +513,7 @@
     #t_1_4.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.4] Competencia monopolística
 
-    p(data-aos="fade-left") El impacto del oligopolio en el bienestar económico puede ser ambivalente. Por un lado, estas estructuras pueden fomentar la innovación, ya que las empresas cuentan con los recursos para invertir en investigación y desarrollo. Por otro lado, el poder de mercado concentrado puede llevar a precios más altos y una menor oferta en comparación con mercados más competitivos, lo que podría perjudicar a los consumidores. Este equilibrio delicado ha llevado a los gobiernos a implementar políticas de regulación y legislación antimonopolio para evitar prácticas como la fijación de precios o el abuso de poder de mercado.
+    p(data-aos="fade-left") La competencia monopolística es un concepto clave para entender cómo las empresas operan en mercados donde los productos y servicios ofrecidos están diferenciados.
 
 
     .bg-full-width.bg-color-2

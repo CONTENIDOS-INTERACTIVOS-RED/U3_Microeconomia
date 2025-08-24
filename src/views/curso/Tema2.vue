@@ -3,22 +3,25 @@
     BannerInterno(:subTitulo="'2. Formación de precios y equilibrio de mercado'")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
   
+      //- .row.mb-5
+      //-   .col-lg-3
+      //-     figure
+      //-       img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
+      //-   .col-lg-9
+      p(data-aos="fade-left").mb-5 El precio de un bien o servicio es uno de los elementos más visibles y fundamentales en cualquier economía de mercado. Representa no solo el costo que los consumidores deben asumir para adquirir un producto, sino también el ingreso que los productores reciben por ofrecerlo. La formación de precios es un proceso dinámico que refleja la interacción entre la oferta y la demanda, donde ambos lados del mercado juegan un papel crucial. A través de este mecanismo, los recursos se asignan de manera eficiente, permitiendo satisfacer las necesidades de los consumidores y las expectativas de los productores (Antelo-Suárez, M. 2015).
+
+      //- .bg-color-1.p-4(data-aos="fade-left")
+      //-   .row.align-items-center
+      //-     .col-lg-auto
+      //-       img(src="@/assets/curso/tema2/2.svg", style="max-width: 90px").mx-auto
+      //-     .col-lg
+      //-       p.mb-0 Los mercados intermedios, como el oligopolio y la competencia monopolística, combinan características de ambos extremos, introduciendo elementos como la cooperación estratégica y la diferenciación de productos (Salas Velasco, 2018).
+
+
       .row.mb-5
         .col-lg-4
-          figure
-            img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
-        .col-lg-8
-          p(data-aos="fade-left") El precio de un bien o servicio es uno de los elementos más visibles y fundamentales en cualquier economía de mercado. Representa no solo el costo que los consumidores deben asumir para adquirir un producto, sino también el ingreso que los productores reciben por ofrecerlo. La formación de precios es un proceso dinámico que refleja la interacción entre la oferta y la demanda, donde ambos lados del mercado juegan un papel crucial. A través de este mecanismo, los recursos se asignan de manera eficiente, permitiendo satisfacer las necesidades de los consumidores y las expectativas de los productores (Antelo-Suárez, M. 2015).
-
-          .bg-color-1.p-4(data-aos="fade-left")
-            .row.align-items-center
-              .col-lg-auto
-                img(src="@/assets/curso/tema2/2.svg", style="max-width: 90px").mx-auto
-              .col-lg
-                p.mb-0 Los mercados intermedios, como el oligopolio y la competencia monopolística, combinan características de ambos extremos, introduciendo elementos como la cooperación estratégica y la diferenciación de productos (Salas Velasco, 2018).
-
-
-      .row.mb-5
+          figure  
+            img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
         .col-lg-8
           p(data-aos="fade-left") Entender cómo se forman los precios, es esencial para analizar el funcionamiento de los mercados. Los consumidores y productores, a través de sus decisiones, establecen puntos de equilibrio donde las cantidades demandadas y ofrecidas se igualan, definiendo así un precio de mercado. 
 
@@ -27,9 +30,6 @@
 
           p(data-aos="fade-left") Además, la formación de precios está influenciada por factores como las preferencias de los consumidores, la tecnología empleada en la producción, los costos asociados, y la estructura del mercado en cuestión. Por ejemplo, en mercados perfectamente competitivos, los precios reflejan los costos marginales de producción, mientras que, en mercados con poder de mercado, como el monopolio, los precios pueden incluir márgenes de ganancia superiores.
 
-        .col-lg-4
-          figure  
-            img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
 
       #t_2_1.titulo-segundo(data-aos="flip-up")
         h2 #[span 2.1] Formación de precios
@@ -63,7 +63,7 @@
               h2.mb-4(data-aos="flip-up") Equilibrio de mercado 
               p.mb-4(data-aos="fade-right") En el PDF Equilibrio de mercado, se exploran las características fundamentales de este concepto, incluyendo el precio y la cantidad de equilibrio, así como los factores que influyen en la estabilidad o el cambio del equilibrio en distintos plazos. A través del análisis del corto y largo plazo, se profundiza en cómo los mercados ajustan sus condiciones ante variaciones en la oferta, la demanda y los costos de producción, permitiendo a los estudiantes comprender cómo los mercados alcanzan una asignación eficiente de los recursos y cómo estos ajustes impactan tanto a productores como a consumidores.
 
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
