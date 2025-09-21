@@ -177,7 +177,7 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://trilogia.utem.cl/wp-content/uploads/sites/9/2019/10/trilogia-utem-facultad-administracion-economia-vol29-n39-2016-nota-tecnica-1-Gonzalez.pdf" target="_blank" rel="noopener noreferrer") González Tapia, E. (2015). LAS EXTERNALIDADES Y EL TEOREMA DE COASE.
+                a(href="https://sitios.vtte.utem.cl/trilogia/wp-content/uploads/sites/9/2019/10/trilogia-utem-facultad-administracion-economia-vol28-n39-2016-nota-tecnica-1-Gonzalez.pdf" target="_blank" rel="noopener noreferrer") González Tapia, E. (2015). LAS EXTERNALIDADES Y EL TEOREMA DE COASE.
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
